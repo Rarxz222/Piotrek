@@ -1,3 +1,3 @@
 import random
-fakty = ["mam 14 lat", "mieszkam w polsce","chodze do szkoly", "lubie grac na komputerze"]
+fakty = ["Mam 14 lat.", "Mieszkam w polsce.","Chodzę do szkoły.", "Lubię grać na komputerze."]
 print(random.choice(fakty))
